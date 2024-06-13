@@ -10,3 +10,6 @@
 
 
 ![timer](https://github.com/agupta890/Countdown-Timer/assets/151984414/f8b072b5-0aec-4654-89de-18c15d6ee300)
+
+<h2>Technologies Used</h2>
+<li><b>HTML</b>: Structure of the web page</li>
