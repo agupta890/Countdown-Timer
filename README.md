@@ -13,3 +13,5 @@
 
 <h2>Technologies Used</h2>
 <li><b>HTML</b>: Structure of the web page</li>
+<li><b>CSS</b>: Styling of the countdown timer</li>
+<li><b>JavaScript</b>: Functionality and interactivity of the timer</li>
